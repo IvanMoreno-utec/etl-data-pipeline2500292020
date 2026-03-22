@@ -1,0 +1,163 @@
+id_venta,id_cliente,fecha,total,cliente,correo,ciudad,id_pago,metodo,monto_pagado
+V9000,CL154,2024-10-25,4641.86,Importadora del Valle 54,cliente547@empresa.com,San Salvador,PG8179,Tarjeta,
+V9001,CL243,2024-06-29,1138.59,Tienda Central 143,cliente1434@gmail.com,San Salvador,,,
+V9003,CL244,2024-01-26,,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel,PG8069,Pago móvil,2855.5
+V9003,CL244,2024-01-26,,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel,PG8089,Tarjeta,761.0
+V9003,CL244,2024-01-26,,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel,PG8185,Transferencia,3246.13
+V9004,CL243,2024-05-24,2208.24,Tienda Central 143,cliente1434@gmail.com,San Salvador,,,
+V9009,CL129,2024-12-10,1003.4,Almacenes Prado 29,cliente2950@correo.sv,San Salvador,,,
+V9012,CL214,,1443.82,Grupo Ideal 114,cliente11464@gmail.com,San Miguel,PG8087,Efectivo,4387.91
+V9013,CL203,,4083.42,Distribuciones Luna 103,,Santa Ana,PG8232,Cheque,464.66
+V9016,CL203,2024-08-08,4596.25,Distribuciones Luna 103,,Santa Ana,PG8156,Efectivo,1757.13
+V9017,CL207,2024-03-09,1276.16,Tienda Central 107 ,cliente10791@gmail.com,San Miguel,,,
+V9019,CL220,2025-01-07,2313.49,Almacenes Prado 120,cliente12068@correo.sv,Santa Ana,,,
+V9021,CL248,2025-01-26,3647.88,Empresa Nova 148,cliente14864@empresa.com,Santa Ana,,,
+V9023,CL249,2024-07-06,3287.69,Soluciones CR 149,cliente14983@empresa.com,San Salvador,,,
+V9025,CL115,,2734.23,Almacenes Prado 15,correo_invalido,San Salvador,PG8002,Tarjeta,789.21
+V9026,CL137,2024-01-27,4923.66,Importadora del Valle 37,cliente3718@gmail.com,Santa Ana,PG8095,Transferencia,
+V9028,CL135,2024-10-14,,Soluciones CR 35,cliente3594@gmail.com,San Miguel,,,
+V9030,CL165,2024-07-04,676.01,Almacenes Prado 65,cliente6570@empresa.com,San Miguel,,,
+V9035,CL166,,4206.7,Comercial Díaz 66,cliente6642@gmail.com,Santa Ana,,,
+V9036,CL154,2024-08-18,3669.35,Importadora del Valle 54,cliente547@empresa.com,San Salvador,,,
+V9040,,2025-02-26,1501.79,,,,PG8030,Transferencia,1460.44
+V9040,,2025-02-26,1501.79,,,,PG8145,Cheque,3849.24
+V9040,,2025-02-26,1501.79,,,,PG8030,Transferencia,1460.44
+V9041,CL159,2024-11-15,,Comercial Díaz 59,cliente5924@correo.sv,Santa Ana,PG8011,Efectivo,3036.78
+V9041,CL159,2024-11-15,,Comercial Díaz 59,cliente5924@correo.sv,Santa Ana,PG8043,Pago móvil,1715.13
+V9042,CL200,2024-12-14,3450.65,Soluciones CR 100,cliente10089@correo.sv,San Salvador,,,
+V9044,CL148,2024-03-01,, Grupo Ideal 48 ,cliente4841@empresa.com,San Miguel,,,
+V9047,CL134,2024-07-20,2318.56,Mundo Hogar 34,cliente3445@outlook.com,San Salvador,,,
+V9048,CL233,2024-07-10,66.47,Comercial Díaz 133,cliente13391@outlook.com,La Libertad,,,
+V9049,CL166,2025-02-10,1248.46,Comercial Díaz 66,cliente6642@gmail.com,Santa Ana,,,
+V9051,CL106,2024-10-12,4959.21,Grupo Ideal 6,cliente619@outlook.com,San Salvador,,,
+V9052,CL113,2024-07-06,513.91,Grupo Ideal 13,cliente1320@correo.sv,Santa Ana,,,
+V9053,CL172,2025-01-21,2019.44,Mundo Hogar 72,cliente7245@correo.sv,San Miguel,,,
+V9055,CL248,2024-04-11,1036.1,Empresa Nova 148,cliente14864@empresa.com,Santa Ana,,,
+V9057,CL190,,3670.7,Servicios Alfa 90,cliente9068@empresa.com,La Libertad,PG8000,Transferencia,4452.68
+V9057,CL190,,3670.7,Servicios Alfa 90,cliente9068@empresa.com,La Libertad,PG8149,Tarjeta,3075.75
+V9059,CL119,,956.36,Comercial Díaz 19,cliente199@gmail.com,San Miguel,PG8044,Pago móvil,2716.21
+V9059,CL119,,956.36,Comercial Díaz 19,cliente199@gmail.com,San Miguel,PG8117,Pago móvil,4419.65
+V9060,CL109,2024-01-21,1789.82,Distribuciones Luna 9,cliente998@correo.sv,La Libertad,,,
+V9061,CL124,,3923.28,Empresa Nova 24,cliente241@empresa.com,San Salvador,,,
+V9062,CL124,,2780.05,Empresa Nova 24,cliente241@empresa.com,San Salvador,PG8082,Cheque,670.65
+V9063,CL153,2024-03-11,46.04,Servicios Alfa 53,cliente5337@empresa.com,Santa Ana,,,
+V9064,CL132,2024-12-31,3809.73,Importadora del Valle 32,cliente3296@gmail.com,San Salvador,,,
+V9065,CL194,2024-06-19,,Servicios Alfa 94,cliente944@outlook.com,San Salvador,PG8005,Cheque,3191.77
+V9065,CL194,2024-06-19,,Servicios Alfa 94,cliente944@outlook.com,San Salvador,PG8169,Efectivo,383.05
+V9067,CL164,2024-08-30,1028.35,Servicios Alfa 64,cliente6478@outlook.com,Santa Ana,,,
+V9069,CL179,2024-08-21,,Servicios Alfa 79,cliente7978@correo.sv,Santa Ana,,,
+V9070,CL153,2024-03-17,1648.12,Servicios Alfa 53,cliente5337@empresa.com,Santa Ana,,,
+V9072,CL230,2024-09-20,1541.91,Almacenes Prado 130,cliente13016@outlook.com,San Miguel,,,
+V9076,CL216,2024-06-12,2254.08,Distribuciones Luna 116,correo_invalido,La Libertad,PG8205,Pago móvil,
+V9076,CL216,2024-06-12,2254.08,Distribuciones Luna 116,correo_invalido,La Libertad,PG8205,Pago móvil,
+V9078,,2024-07-20,4433.25,,,,,,
+V9080,CL178,2025-01-13,1969.8,Tienda Central 78,cliente784@outlook.com,La Libertad,,,
+V9084,CL227,,3105.55, Empresa Nova 127 ,cliente12717@outlook.com,San Salvador,PG8033,Tarjeta,4780.48
+V9085,CL195,2024-09-16,1790.36,Servicios Alfa 95,cliente9564@correo.sv,San Miguel,,,
+V9086,CL191,2025-02-28,,Grupo Ideal 91,cliente9151@empresa.com,San Miguel,PG8181,Transferencia,3209.57
+V9089,CL177,2024-09-07,2415.24,Tienda Central 77,cliente7747@outlook.com,San Miguel,,,
+V9091,CL245,2024-10-15,342.97,Importadora del Valle 145,cliente14584@outlook.com,La Libertad,,,
+V9092,CL159,2024-06-02,2908.32,Comercial Díaz 59,cliente5924@correo.sv,Santa Ana,,,
+V9094,CL192,2025-02-21,2812.09,Soluciones CR 92,cliente9284@empresa.com,San Salvador,,,
+V9095,CL142,2024-01-09,3025.37,Importadora del Valle 42,cliente4281@outlook.com,Santa Ana,,,
+V9102,CL229,2024-06-06,311.58,Importadora del Valle 129,cliente12956@gmail.com,Santa Ana,,,
+V9103,CL999,2025-02-11,,,,,PG8041,Transferencia,1959.62
+V9104,CL110,2025-01-06,3928.79,Grupo Ideal 10,cliente1058@gmail.com,La Libertad,,,
+V9105,CL155,,3544.25,Mundo Hogar 55,cliente5535@gmail.com,San Salvador,,,
+V9108,CL198,2024-01-14,2212.19,Distribuciones Luna 98,cliente9891@correo.sv,San Miguel,,,
+V9110,CL172,2024-08-30,1654.4,Mundo Hogar 72,cliente7245@correo.sv,San Miguel,,,
+V9111,CL214,2024-05-15,2181.42,Grupo Ideal 114,cliente11464@gmail.com,San Miguel,,,
+V9113,CL179,2025-02-04,1118.65,Servicios Alfa 79,cliente7978@correo.sv,Santa Ana,PG8055,Efectivo,
+V9116,CL103,2024-10-22,4991.77,Almacenes Prado 3,cliente329@gmail.com,Santa Ana,PG8195,Transferencia,
+V9117,CL103,2024-04-26,,Almacenes Prado 3,cliente329@gmail.com,Santa Ana,,,
+V9118,CL202,2025-01-04,3219.97,Tienda Central 102,,La Libertad,PG8079,Cheque,3616.27
+V9118,CL202,2025-01-04,3219.97,Tienda Central 102,,La Libertad,PG8084,Tarjeta,641.61
+V9120,CL116,,3188.16,Servicios Alfa 16,cliente1616@gmail.com,La Libertad,PG8119,Efectivo,2561.95
+V9121,CL200,2024-09-02,3932.55,Soluciones CR 100,cliente10089@correo.sv,San Salvador,,,
+V9122,CL202,2024-03-28,609.31,Tienda Central 102,,La Libertad,PG8018,Efectivo,2438.24
+V9126,CL223,2024-11-13,2867.92,Tienda Central 123,correo_invalido,San Miguel,,,
+V9126,CL223,2024-11-13,2867.92,Tienda Central 123,correo_invalido,San Miguel,,,
+V9128,,2025-03-06,938.69,,,,PG8061,Pago móvil,713.2
+V9128,,2025-03-06,938.69,,,,PG8081,Transferencia,4352.45
+V9131,CL191,2025-02-24,150.46,Grupo Ideal 91,cliente9151@empresa.com,San Miguel,,,
+V9132,CL113,2024-12-14,140.47,Grupo Ideal 13,cliente1320@correo.sv,Santa Ana,PG8106,Cheque,
+V9134,CL232,2024-01-17,1379.89,Almacenes Prado 132,cliente13221@empresa.com,La Libertad,,,
+V9135,CL229,,2600.03,Importadora del Valle 129,cliente12956@gmail.com,Santa Ana,,,
+V9137,CL248,2024-02-26,4704.58,Empresa Nova 148,cliente14864@empresa.com,Santa Ana,,,
+V9138,CL178,2024-04-07,1311.3,Tienda Central 78,cliente784@outlook.com,La Libertad,PG8120,Tarjeta,
+V9139,CL248,2024-01-10,2159.69,Empresa Nova 148,cliente14864@empresa.com,Santa Ana,,,
+V9140,CL237,2024-08-13,4366.2,Mundo Hogar 137,cliente13717@empresa.com,La Libertad,,,
+V9143,CL232,2024-03-18,4017.16,Almacenes Prado 132,cliente13221@empresa.com,La Libertad,,,
+V9145,CL112,2024-12-19,2425.18,Importadora del Valle 12,cliente1233@outlook.com,San Salvador,,,
+V9148,CL248,2024-09-13,3645.14,Empresa Nova 148,cliente14864@empresa.com,Santa Ana,,,
+V9149,CL151,2025-01-31,2492.38,Comercial Díaz 51,cliente5133@gmail.com,Santa Ana,PG8155,Pago móvil,
+V9150,CL216,,2195.52,Distribuciones Luna 116,correo_invalido,La Libertad,PG8212,Transferencia,253.32
+V9150,CL216,,2195.52,Distribuciones Luna 116,correo_invalido,La Libertad,PG8212,Transferencia,253.32
+V9154,CL211,2025-01-11,3058.92,Distribuciones Luna 111,cliente11147@outlook.com,Santa Ana,,,
+V9156,CL141,2024-02-01,3761.85,Comercial Díaz 41,cliente4190@correo.sv,San Salvador,,,
+V9158,CL141,2024-03-11,4783.94,Comercial Díaz 41,cliente4190@correo.sv,San Salvador,,,
+V9160,CL212,2024-04-16,304.13,Tienda Central 112,correo_invalido,La Libertad,PG8140,Transferencia,
+V9160,CL212,2024-04-16,304.13,Tienda Central 112,correo_invalido,La Libertad,PG8140,Transferencia,
+V9163,CL219,,1249.95,Almacenes Prado 119,cliente11951@correo.sv,San Miguel,PG8031,Cheque,4502.41
+V9164,CL236,2024-09-01,4533.15,Servicios Alfa 136,cliente13626@empresa.com,Santa Ana,,,
+V9165,CL228,2024-09-26,1262.74,Distribuciones Luna 128,cliente12899@outlook.com,San Miguel,,,
+V9168,CL147,2024-03-29,2259.7,Mundo Hogar 47,cliente4726@gmail.com,La Libertad,,,
+V9169,CL128,2024-08-23,3888.02,Almacenes Prado 28,cliente289@gmail.com,Santa Ana,,,
+V9171,CL109,,2448.1,Distribuciones Luna 9,cliente998@correo.sv,La Libertad,PG8118,Pago móvil,2252.63
+V9172,CL157,2024-10-06,187.4,Servicios Alfa 57,cliente5752@correo.sv,Santa Ana,,,
+V9173,CL120,2024-06-30,332.01,Importadora del Valle 20,cliente2064@gmail.com,La Libertad,,,
+V9174,CL127,,4534.06,Distribuciones Luna 27,cliente2768@empresa.com,La Libertad,PG8122,Efectivo,115.2
+V9174,CL127,,4534.06,Distribuciones Luna 27,cliente2768@empresa.com,La Libertad,PG8147,Efectivo,3835.26
+V9175,,2025-01-30,713.44,,,,PG8039,Cheque,
+V9175,,2025-01-30,713.44,,,,PG8066,Tarjeta,4969.36
+V9175,,2025-01-30,713.44,,,,PG8153,Efectivo,2049.56
+V9175,,2025-01-30,713.44,,,,PG8237,Pago móvil,3525.21
+V9176,CL107,2025-03-20,2671.45,Almacenes Prado 7,cliente75@empresa.com,San Salvador,,,
+V9178,CL244,2024-12-14,1749.77,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel,,,
+V9180,CL999,2025-02-15,128.68,,,,PG8196,Tarjeta,4116.22
+V9181,CL168,2024-12-20,3325.67,Almacenes Prado 68,cliente6885@empresa.com,San Salvador,,,
+V9182,CL186,2024-05-15,4817.7,Almacenes Prado 86,cliente8687@correo.sv,La Libertad,,,
+V9183,CL200,,2809.64,Soluciones CR 100,cliente10089@correo.sv,San Salvador,,,
+V9185,CL176,2024-04-08,280.24,Distribuciones Luna 76,,Santa Ana,PG8186,Efectivo,632.14
+V9187,CL142,2024-05-22,,Importadora del Valle 42,cliente4281@outlook.com,Santa Ana,,,
+V9188,CL228,2024-10-12,,Distribuciones Luna 128,cliente12899@outlook.com,San Miguel,PG8108,Pago móvil,2876.17
+V9189,CL208,,4906.86,Almacenes Prado 108,cliente10871@empresa.com,La Libertad,PG8139,Cheque,91.29
+V9189,CL208,,4906.86,Almacenes Prado 108,cliente10871@empresa.com,La Libertad,PG8222,Tarjeta,1813.96
+V9191,CL232,2024-06-01,3277.79,Almacenes Prado 132,cliente13221@empresa.com,La Libertad,,,
+V9192,CL247,2025-01-29,1006.53, Soluciones CR 147 ,cliente14780@gmail.com,Santa Ana,,,
+V9194,CL157,2024-12-26,2330.38,Servicios Alfa 57,cliente5752@correo.sv,Santa Ana,,,
+V9197,CL999,,1760.54,,,,PG8046,Cheque,2777.48
+V9197,CL999,,1760.54,,,,PG8071,Cheque,1022.53
+V9197,CL999,,1760.54,,,,PG8175,Tarjeta,4647.56
+V9198,CL234,2024-09-07,588.2,Mundo Hogar 134,cliente13445@empresa.com,Santa Ana,,,
+V9201,CL104,2024-06-27,1269.81,Soluciones CR 4,cliente441@gmail.com,La Libertad,,,
+V9201,CL104,2024-06-27,1269.81,Soluciones CR 4,cliente441@gmail.com,La Libertad,,,
+V9202,CL104,2024-10-13,4256.07,Soluciones CR 4,cliente441@gmail.com,La Libertad,,,
+V9202,CL104,2024-10-13,4256.07,Soluciones CR 4,cliente441@gmail.com,La Libertad,,,
+V9204,CL195,2025-01-04,2626.49,Servicios Alfa 95,cliente9564@correo.sv,San Miguel,,,
+V9205,CL107,2024-05-20,591.55,Almacenes Prado 7,cliente75@empresa.com,San Salvador,,,
+V9207,CL237,2024-03-03,3619.62,Mundo Hogar 137,cliente13717@empresa.com,La Libertad,,,
+V9208,CL137,2024-10-20,356.99,Importadora del Valle 37,cliente3718@gmail.com,Santa Ana,,,
+V9210,CL211,2024-10-05,2726.82,Distribuciones Luna 111,cliente11147@outlook.com,Santa Ana,PG8116,Tarjeta,
+V9213,CL203,2025-02-23,2433.79,Distribuciones Luna 103,,Santa Ana,PG8129,Transferencia,1806.4
+V9216,CL135,2025-02-15,4252.88,Soluciones CR 35,cliente3594@gmail.com,San Miguel,,,
+V9223,CL213,2024-06-26,2572.26,Importadora del Valle 113,cliente11318@outlook.com,Santa Ana,,,
+V9226,CL239,2024-05-11,278.74,Almacenes Prado 139,cliente13965@outlook.com,San Salvador,PG8170,Efectivo,
+V9227,CL999,2025-01-17,3935.67,,,,PG8199,Cheque,2610.45
+V9229,,2024-04-19,1307.93,,,,PG8058,Efectivo,2797.39
+V9230,CL112,2024-04-13,840.24,Importadora del Valle 12,cliente1233@outlook.com,San Salvador,,,
+V9231,CL194,,1664.47,Servicios Alfa 94,cliente944@outlook.com,San Salvador,,,
+V9232,CL243,2024-10-02,3788.62,Tienda Central 143,cliente1434@gmail.com,San Salvador,,,
+V9233,CL131,2024-05-18,2606.54,Servicios Alfa 31,cliente3148@empresa.com,Santa Ana,,,
+V9234,CL131,2024-10-14,1040.31,Servicios Alfa 31,cliente3148@empresa.com,Santa Ana,,,
+V9235,CL223,2024-12-22,4391.59,Tienda Central 123,correo_invalido,San Miguel,,,
+V9235,CL223,2024-12-22,4391.59,Tienda Central 123,correo_invalido,San Miguel,,,
+V9236,,2024-05-19,4400.32,,,,,,
+V9238,CL114,2024-02-25,1209.21,Distribuciones Luna 14,cliente1415@empresa.com,San Miguel,,,
+V9080,CL178,2025-01-13,1969.8,Tienda Central 78,cliente784@outlook.com,La Libertad,,,
+V9003,CL244,2024-01-26,,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel,PG8069,Pago móvil,2855.5
+V9003,CL244,2024-01-26,,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel,PG8089,Tarjeta,761.0
+V9003,CL244,2024-01-26,,Distribuciones Luna 144,cliente1446@empresa.com,San Miguel,PG8185,Transferencia,3246.13
+V9205,CL107,2024-05-20,591.55,Almacenes Prado 7,cliente75@empresa.com,San Salvador,,,
+V9148,CL248,2024-09-13,3645.14,Empresa Nova 148,cliente14864@empresa.com,Santa Ana,,,
+V9094,CL192,2025-02-21,2812.09,Soluciones CR 92,cliente9284@empresa.com,San Salvador,,,
