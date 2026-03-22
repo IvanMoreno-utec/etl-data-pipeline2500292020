@@ -12,7 +12,7 @@ Original file is located at
 import pandas as pd
 import os
 
-# URLs raw de GitHub (Reemplazar 'TU_USUARIO' y 'TU_REPO')
+# URLs raw
 url_ventas = 'https://raw.githubusercontent.com/IvanMoreno-utec/etl-data-pipeline2500292020/refs/heads/main/data/raw/C_ventas.csv'
 url_pagos = 'https://raw.githubusercontent.com/IvanMoreno-utec/etl-data-pipeline2500292020/refs/heads/main/data/raw/C_pagos.csv'
 url_clientes = 'https://raw.githubusercontent.com/IvanMoreno-utec/etl-data-pipeline2500292020/refs/heads/main/data/raw/C_clientes.csv'
